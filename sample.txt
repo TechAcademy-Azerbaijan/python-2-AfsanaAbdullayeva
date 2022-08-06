@@ -1,0 +1,5 @@
+Function name	|	Worked time	|	Arguments as list	|	Arguments as dictionary	|	Function results	|
+sum		\|	2022-08-06 23:39:17|				(1, 2)	|								|	3				|
+divide		\|	2022-08-06 23:39:17|								|	{'a': 'j', 'b': 2}				|	unsupported operand type(s) for /: 'str' and 'int'				|
+divide		\|	2022-08-06 23:39:17|								|	{'a': 2, 'b': 1.5}				|	1.3333333333333333				|
+divide		\|	2022-08-06 23:39:17|				(10, 0)	|								|	division by zero				|
